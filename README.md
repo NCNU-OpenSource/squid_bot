@@ -48,7 +48,7 @@
 ### 啟動主程式
 `python3 main.py`
 
-![](https://i.imgur.com/L1TvGgj.png =300x)
+![](https://i.imgur.com/L1TvGgj.png)
 
 ## Special Thanks
 題目發想：李漢偉 @UncleHanWei、蔣毓庭 @YuTing0412
